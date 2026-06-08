@@ -1,0 +1,10 @@
+# The Wikimedia Taiwan Internation Brief Generator.
+# Copyright 2026 imacat.  All rights reserved.
+# Authors:
+#   imacat@mail.imacat.idv.tw (imacat), 2026/6/8
+
+.DS_Store
+.idea
+.claude
+
+excludes

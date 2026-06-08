@@ -1,0 +1,16 @@
+# Wikimedia Taiwan International Brief Generator
+# Copyright 2026 imacat.  All rights reserved.
+# Authors:
+#   imacat@wikimedia.tw (imacat), 2026/6/10
+
+# The configuration example for the International Brief Generator.
+# Install this file as config in the /etc/wmtw-briefs directory.
+#
+#   sudo mkdir -p /etc/wmtw-briefs
+#   sudo cp config.example /etc/wmtw-briefs/config
+#
+
+# The recipients.
+TO=recipient1@wikimedia.tw,recipient2@wikimedia.tw
+# The CC recipients.
+CC=cc1@wikimedia.tw,cc2@wikimedia.tw
